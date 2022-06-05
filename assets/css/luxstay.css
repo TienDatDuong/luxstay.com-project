@@ -502,32 +502,32 @@
 }
 .wrap__famous-place-img-HN{
     position: absolute;
-    top: 126%;
-    left: 10%;
+    top: 116%;
+    left: 13%;
     color: var(--white-color);
 }
 .wrap__famous-place-img-HCM{
     position: absolute;
-    top: 126%;
-    left: 26%;
+    top: 116%;
+    left: 28%;
     color: var(--white-color);
 }
 .wrap__famous-place-img-VT{
     position: absolute;
-    top: 126%;
+    top: 116%;
     left: 44%;
     color: var(--white-color);
 }
 .wrap__famous-place-img-ĐL{
     position: absolute;
-    top: 126%;
-    left: 61%;
+    top: 116%;
+    left: 60%;
     color: var(--white-color);
 }
 .wrap__famous-place-img-ĐN{
     position: absolute;
-    top: 126%;
-    left: 79%;
+    top: 116%;
+    left: 75%;
     color: var(--white-color);
 }
 /* endow */
